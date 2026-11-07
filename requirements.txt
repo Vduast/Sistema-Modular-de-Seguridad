@@ -1,0 +1,5 @@
+blynk-library-python
+gpiozero
+requests
+RPLCD
+smbus2

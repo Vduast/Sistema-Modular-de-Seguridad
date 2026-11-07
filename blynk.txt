@@ -1,0 +1,12 @@
+Pin V0: Control del Sistema (Armar/Desarmar)
+    Tipo de Dato: Integer (Entero)
+    Rango de Valores: 0 (Desarmado) y 1 (Armado)
+    Widget Sugerido: Button (Configurado en modo "Switch", no en "Push")
+
+Pin V3: Selector de Cámara
+    Tipo de Dato: Integer (Entero)
+    Rango de Valores: 1, 2, 3, 4 (Para elegir entre las 4 cámaras)
+    Widget Sugerido: Segmented Switch (Configurado con 4 pestañas, donde cada una envíe su número correspondiente)
+
+Pin V4: Transmisión de Video en Vivo
+    Tipo de Dato: String (Texto / URL)
